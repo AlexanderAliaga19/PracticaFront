@@ -1,0 +1,82 @@
+{
+  "plots": [
+    {
+      "id": 1,
+      "name": "Plot A",
+      "location": "North Field",
+      "hectares": 10.5,
+      "monitoringStartDate": "2023-01-15"
+    },
+    {
+      "id": 2,
+      "name": "Plot B",
+      "location": "East Field",
+      "hectares": 20.0,
+      "monitoringStartDate": "2023-05-10"
+    },
+    {
+      "id": 3,
+      "name": "Plot C",
+      "location": "South Field",
+      "hectares": 30.0,
+      "monitoringStartDate": "2023-02-10"
+    },
+    {
+      "id": 4,
+      "name": "Plot D",
+      "location": "West Field",
+      "hectares": 15.0,
+      "monitoringStartDate": "2023-03-20"
+    },
+    {
+      "id": 5,
+      "name": "Plot E",
+      "location": "Central Field",
+      "hectares": 25.0,
+      "monitoringStartDate": "2023-04-05"
+    }
+  ],
+
+  "inspections": [
+    {
+      "id": 1,
+      "plotID": 2,
+      "observations": "Healthy crops with no signs of pests.",
+      "recomendedtActions": "Continue regular monitoring.",
+      "cropStatus": "Good",
+      "inspectionDate": "2023-06-15"
+    },
+    {
+      "id": 2,
+      "plotID": 4,
+      "observations": "Minor pest infestation observed.",
+      "recomendedtActions": "Apply organic pesticides.",
+      "cropStatus": "Fair",
+      "inspectionDate": "2023-06-20"
+    },
+    {
+      "id": 3,
+      "plotID": 1,
+      "observations": "Overwatering signs detected.",
+      "recomendedtActions": "Adjust irrigation schedule.",
+      "cropStatus": "Poor",
+      "inspectionDate": "2023-06-18"
+    },
+    {
+      "id": 4,
+      "plotID": 3,
+      "observations": "Crops are thriving well.",
+      "recomendedtActions": "Maintain current practices.",
+      "cropStatus": "Excellent",
+      "inspectionDate": "2023-06-22"
+    },
+    {
+      "id": 5,
+      "plotID": 5,
+      "observations": "Weed growth observed in some areas.",
+      "recomendedtActions": "Implement weed control measures.",
+      "cropStatus": "Fair",
+      "inspectionDate": "2023-06-25"
+    }
+  ]
+}
