@@ -10,7 +10,7 @@ const drawer = ref(false);
 const toggleDrawer = () => { drawer.value = !drawer.value;};
 const items = [
   { label: 'option.home',       to: '/home'},
-  { label: 'option.about',      to: '/about'}/*,
+  { label: 'option.registro-inspeccion',      to: '/registro-inspeccion'}/*,
   { label: 'option.categories', to: '/publishing/categories'},
   { label: 'option.tutorials',  to: '/publishing/tutorials'} */
 ];

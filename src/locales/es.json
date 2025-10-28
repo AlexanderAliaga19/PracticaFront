@@ -1,7 +1,7 @@
 {
   "option": {
     "home": "Inicio",
-    "about": "Acerca de",
+    "registro-inspeccion": "Registro de Inspección",
     "categories": "Categorías",
     "tutorials": "Tutoriales"
   },
@@ -10,10 +10,10 @@
     "use": "utilizando",
     "author": "por el Equipo de Desarrollo de {brand}"
   },
-  "about": {
-    "title": "Acerca de Nosotros",
-    "content": "ACME Learning Center es una Plataforma educativa empresarial, parte de ACME Corporation."
-  },
+    "registro-inspeccion":{
+        "title": "Registro de Inspección",
+        "content": "ACME Learning Center es una Plataforma de Negocios Educativos, parte de ACME Corporation."
+    },
   "home": {
     "title": "Bienvenido a la tienda",
     "content": "Bienvenido a ACME Learning Center, tu puerta de entrada a la educación con calidad.",

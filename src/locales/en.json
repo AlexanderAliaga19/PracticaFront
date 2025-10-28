@@ -1,7 +1,7 @@
 {
   "option": {
     "home": "Home",
-    "about": "About",
+    "registro-inspeccion": "Inspection Record",
     "categories": "Categories",
     "tutorials": "Tutorials"
   },
@@ -10,10 +10,10 @@
     "use": "using",
     "author": "by {brand} Development Team"
   },
-  "about": {
-    "title": "About Us",
+  "registro-inspeccion":{
+    "title": "Inspection Record",
     "content": "ACME Learning Center is an Education Business Platform, part of ACME Corporation."
-  },
+},
   "home": {
     "title": "Welcome to tend",
     "content": "Welcome to ACME Learning Center, your gateway to quality education.",
